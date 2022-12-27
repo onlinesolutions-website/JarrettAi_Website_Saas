@@ -19,7 +19,7 @@ const World = () => (
       <TypingText title="| Worldwide Users" textStyles="text-center" />
       <TitleText
         title={(
-          <>See People all around the World using JarrettAi and Saving Time & Money!
+          <>See People all around the World using JarrettAi. Saving Time & Money!
           </>
         )}
         textStyles="text-center"
